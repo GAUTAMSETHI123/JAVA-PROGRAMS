@@ -19,7 +19,7 @@ public class ArraysDemo1D {
         System.out.println("enter the array values");
 
 
-        for (int index = 0; index < number; index++) {
+        for (int index = 0; index < nums.length; index++) {
             nums[index] = scanner.nextInt();
 
             System.out.println(nums[index]);
