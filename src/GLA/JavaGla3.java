@@ -1,8 +1,8 @@
-/*   Created by IntelliJ IDEA.
+package GLA;/*   Created by IntelliJ IDEA.
  *   Author: Gautam Sethi (GAUTAMSETHI123)
  *   Date: 02-02-2021
  *   Time: 11:29
- *   File: JavaGla3.java
+ *   File: GLA.JavaGla3.java
  */
 
 import java.util.Scanner;
